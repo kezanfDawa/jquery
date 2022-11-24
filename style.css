@@ -1,0 +1,109 @@
+
+
+
+#two{
+    border-radius:5px ;
+    cursor: pointer;
+}
+#hii, #hyy{
+    background-color: cornflowerblue;
+    padding: 5px;
+    text-align: center;
+    border: solid 1px rgb(120, 47, 47);
+    height: 100px;
+    width: 300px;
+    box-shadow: 5px 5px 20px 10px yellow;
+    border-radius: 30px;
+    margin: auto;
+}
+#hyy{
+        padding: 50px;
+        height: 100px;
+        width: 200px;
+}
+
+.five{
+    
+    border-radius: 20px;
+    
+    
+    
+}
+
+  #animate{
+    border-radius: 50px;
+    height: 200px;
+    width: 300px;
+  }
+
+   
+
+
+.tashi{
+
+    height: 50px;
+    width: 150px;
+    border-radius: 30px;
+    
+    
+   
+}
+
+#seven, #eight{
+    background-color: deepskyblue;
+    padding: 5px;
+    font-size: 18px;
+    text-align: center;
+    color: wheat;
+    border: solid 1px green;
+    border-radius: 30px;
+    height: 300px;
+    width: 300px;
+    
+
+
+
+}
+
+#seven{
+    height: 100px;
+}
+ #eight{
+    padding: 50px;
+    display: none;
+    height: 200px;
+    width: 200px;
+} 
+
+.test {
+    color: red;
+    font-size: 20px; 
+}
+
+.important {
+    font-weight: bold;
+    font-size: xx-large;
+  }
+  
+  .blue {
+    color: blue; 
+}
+
+
+#soo {
+    height: 100px;
+    width: 300px;
+    padding: 10px;
+    margin: 3px;
+    border: 1px solid blue;
+    background-color: lightblue;
+  }
+
+
+
+  body{
+    background-color: pink;
+    height: 1200px;
+    width: 1200px;
+    
+  }
